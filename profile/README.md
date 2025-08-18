@@ -1,6 +1,3 @@
-
-# FunAgent
-
 <p align="center">
   <img src="https://via.placeholder.com/150x150?text=FunAgent" alt="FunAgent Logo" width="150"/>
 </p>
